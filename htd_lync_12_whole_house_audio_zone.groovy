@@ -30,7 +30,7 @@ metadata {
         name:        "HTD Lync 12 Whole House Audio Zone",
         namespace:   "igorkuz",
         author:      "Igor Kuz",
-        //importUrl: ""
+        importUrl: "https://git.oczcloud.com/hubitat/drivers/htd-lync-12-whole-house-audio/-/raw/main/htd_lync_12_whole_house_audio_zone.groovy"
     ) {
         capability "AudioVolume"
         capability "HealthCheck"
