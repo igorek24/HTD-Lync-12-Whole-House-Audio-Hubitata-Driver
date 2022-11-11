@@ -30,7 +30,7 @@ metadata {
         name:        "HTD Lync 12 Whole House Audio Interface",
         namespace:   "igorkuz",
         author:      "Igor Kuz",
-        importUrl: "https://git.oczcloud.com/hubitat/drivers/htd-lync-12-whole-house-audio/-/raw/main/htd_lync_12_whole_house_audio_interface.groovy"
+        importUrl: "https://raw.githubusercontent.com/igorek24/HTD-Lync-12-Whole-House-Audio-Hubitata-Driver/main/htd_lync_12_whole_house_audio_interface.groovy"
     ) {
         capability "HealthCheck"
         capability "Switch"
